@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Portfolio
-email: illustration@domain.com
+email: barbara_bp@hotmail.com
 description: > # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ilustratorka
 
 # Build settings
 markdown: kramdown
