@@ -1,0 +1,24 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+<div class="home">
+  <h1>Gallery</h1>
+
+<p>Welcome to my illustration portfolio. I'm an illustration student based in Slovenia. Here you can find my old and new work created throught the years.</p>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+         
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
